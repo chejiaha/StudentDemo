@@ -13,6 +13,7 @@ public class Student {
     private int studId;
     private String studName;
     private String program;
+    private String course;
     
 public Student (){
     studId = 0;
