@@ -14,6 +14,7 @@ public class Student {
     private String studName;
     private String program;
     private String course;
+    //adding comment while in John_Chen branch
     
 public Student (){
     studId = 0;
